@@ -1,2 +1,2 @@
 # Hotel-management-system
-A fully functional website for a hotel management system using Jsp, HTML, CSS, Java Script, SQL
+We use Apache Tomcat 8.5 as the web server and host it from our device
